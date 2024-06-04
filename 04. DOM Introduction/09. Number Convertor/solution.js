@@ -1,5 +1,5 @@
 function solve() {
-    document.getElementsByTagName('button')[0].addEventListener('click', onClick);    
+    document.getElementsByTagName('button')[0].addEventListener('click', onClick);
 
     const optionMenu = document.getElementById('selectMenuTo');
     const options = [
